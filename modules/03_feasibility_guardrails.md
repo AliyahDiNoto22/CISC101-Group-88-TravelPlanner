@@ -1,3 +1,5 @@
+Change Log (2025-11-11): – Updated Weather swap to support 'indoor activities only' preference.
+
 ### **Module 3 — Feasibility & Guardrails**
 
 Apply these **if/else** checks to make sure plans are realistic and adapt to edge cases:
@@ -16,7 +18,7 @@ Apply these **if/else** checks to make sure plans are realistic and adapt to edg
 
 4. **Weather Swap**
    
-   - If rain or cold season likely → make sure at least one indoor activity replaces outdoor ones.
+   - If rain or cold season likely → make sure all outdoor activities are replaced by indoor ones.
 
 5. **Time Overrun**
    
